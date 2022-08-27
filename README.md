@@ -8,6 +8,4 @@
 <br>
 [+] <b>pip3 install requests</b>
 
-<h1>windows</h1>
-<br>
-<b>[+] run install_lib.cmd</b>
+
